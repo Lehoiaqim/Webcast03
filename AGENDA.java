@@ -6,6 +6,9 @@
 // Rayane Rafaela do Carmo Silva
 // Rubem de Morais Falcão Neto
 
+// Professor enviamos em arquivo pois tivermos dificuldades de enviar através pelo VScode, mas aqui está o nosso código em funcionamento.
+
+import java.util.Scanner;
 import java.io.*;
 import java.util.*;
 
